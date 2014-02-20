@@ -1,0 +1,14 @@
+{
+  "name": "lepture-onepage",
+  "description": "Onepage scroll webpage in component.",
+  "version": "0.2.0",
+  "keywords": [],
+  "styles": [
+    "onepage.css"
+  ],
+  "dependencies": {
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}

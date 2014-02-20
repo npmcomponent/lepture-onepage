@@ -6,8 +6,8 @@
  * Copyright (c) 2013 - 2014 by Hsiaoming Yang.
  */
 
-var events = require('event');
-var emitter = require('emitter');
+var events = require('component-event');
+var emitter = require('component-emitter');
 
 /**
  * Interface of onepage.
